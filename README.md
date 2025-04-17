@@ -46,5 +46,12 @@ python Main-Seg.py --input_dir /path/to/your/image_folder
 
 1. The input folder should contain a series of 2D .tiff stacks forming a 3D volume. The names of the files should be numbered according to the slice number (For example, 0001.tiff, 0002.tiff....)
 
-2. The repository contains some demo data in the 'Examples' folder. 
+2. The repository contains some demo data in the 'Examples' folder.
+
+##What the pipeline does:
+
+<img width="681" alt="Screenshot 2025-04-17 at 8 09 59 PM" src="https://github.com/user-attachments/assets/fc3d120d-de0f-4aa2-9d3a-840993b5c9bc" />
+<img width="662" alt="Screenshot 2025-04-17 at 8 09 50 PM" src="https://github.com/user-attachments/assets/010ae711-d0fc-4005-8f1f-e32a1906edae" />
+<img width="538" alt="Screenshot 2025-04-17 at 8 09 32 PM" src="https://github.com/user-attachments/assets/5d62abdf-9e75-4742-90e7-d8cf13ac0725" />
+
 
