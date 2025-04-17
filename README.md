@@ -48,7 +48,7 @@ python Main-Seg.py --input_dir /path/to/your/image_folder
 
 2. The repository contains some demo data in the 'Examples' folder.
 
-##What the pipeline does:
+## What the pipeline does:
 
 <img width="681" alt="Screenshot 2025-04-17 at 8 09 59 PM" src="https://github.com/user-attachments/assets/fc3d120d-de0f-4aa2-9d3a-840993b5c9bc" />
 <img width="662" alt="Screenshot 2025-04-17 at 8 09 50 PM" src="https://github.com/user-attachments/assets/010ae711-d0fc-4005-8f1f-e32a1906edae" />
